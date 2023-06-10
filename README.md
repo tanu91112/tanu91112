@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanu Chandravanshi</h1>
 <h3 align="center">A passionate frontend developer and Engineering Student from VIT Bhopal University.</h3>
 
-<img align="right" alt="coding" width="400" src="C:\Users\tanuc\Desktop\python\github.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/tanu91112/tanu91112/blob/main/github.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanu91112&label=Profile%20views&color=0e75b6&style=flat" alt="tanu91112" /> </p>
 
