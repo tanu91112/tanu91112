@@ -1,4 +1,4 @@
-![logo](https://github.com/tanu91112/tanu91112/blob/main/banner.png)
+![logo](https://github.com/tanu91112/tanu91112/blob/main/LinkedIn Banner.png)
 <h1 align="center">Hi 👋, I'm Tanu Chandravanshi</h1>
 <h3 align="center">A passionate frontend developer and Engineering Student from VIT Bhopal University.</h3>
 
