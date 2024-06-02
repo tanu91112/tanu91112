@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **tanuchandravanshi9@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/w/s!Ao8E_sebA2vHrGFpuNmrzyphI15o?e=U0d4X2](https://1drv.ms/w/s!Ao8E_sebA2vHrGFpuNmrzyphI15o?e=U0d4X2)
+- 📄 Know about my experiences [https://1drv.ms/w/c/c76b039bc7fe048f/EfNTH5znb-BPgFq0CvIK144BZ19ijlw2K7IEz0utWVcYig?e=RPnVaM](https://1drv.ms/w/c/c76b039bc7fe048f/EfNTH5znb-BPgFq0CvIK144BZ19ijlw2K7IEz0utWVcYig?e=RPnVaM)
 
 
 <h3 align="left">Connect with me:</h3>
