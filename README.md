@@ -8,11 +8,14 @@
 
 - 📫 How to reach me **tanuchandravanshi9@gmail.com**
 
-- 
-🌍 I’m interested in the intersection of AI and sustainability for a better future.
-🔧 I’m working on enhancing my debugging and optimization skills for efficient coding.
-📚 I’m studying machine learning models and their applications in real-world scenarios.
-📫 Feel free to connect with me on LinkedIn:www.linkedin.com/in/tanu-chandravanshi-338940251
+  
+<h3>🌍 I’m interested in the intersection of AI and sustainability for a better future.<h3>
+  
+<h3>🔧 I’m working on enhancing my debugging and optimization skills for efficient coding.<h3>
+  
+<h3>📚 I’m studying machine learning models and their applications in real-world scenarios.<h3>
+  
+<h3>📫 Feel free to connect with me on LinkedIn:www.linkedin.com/in/tanu-chandravanshi-338940251<h3>
 
 - 📄 Know about my experiences [https://1drv.ms/w/c/c76b039bc7fe048f/EfNTH5znb-BPgFq0CvIK144BZ19ijlw2K7IEz0utWVcYig?e=RPnVaM](https://1drv.ms/w/c/c76b039bc7fe048f/EfNTH5znb-BPgFq0CvIK144BZ19ijlw2K7IEz0utWVcYig?e=RPnVaM)
 
