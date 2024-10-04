@@ -17,8 +17,6 @@
   
 <h3>📫 Feel free to connect with me on LinkedIn:www.linkedin.com/in/tanu-chandravanshi-338940251<h3>
 
-<h3>📄 Know about my experiences [https://1drv.ms/w/c/c76b039bc7fe048f/EfNTH5znb-BPgFq0CvIK144BZ19ijlw2K7IEz0utWVcYig?e=RPnVaM](https://1drv.ms/w/c/c76b039bc7fe048f/EfNTH5znb-BPgFq0CvIK144BZ19ijlw2K7IEz0utWVcYig?e=RPnVaM)<h3>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
