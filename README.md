@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanu91112&label=Profile%20views&color=0e75b6&style=flat" alt="tanu91112" /> </p>
 
-<h3>📫 How to reach me **tanuchandravanshi9@gmail.com** </h3> 
+<h3>📫 How to reach me **tanuchandravanshi9@gmail.com** <h3> 
 
   
 <h3>🌍 I’m interested in the intersection of AI and sustainability for a better future.<h3>
