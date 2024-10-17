@@ -1,15 +1,33 @@
 ![logo](https://github.com/tanu91112/tanu91112/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Tanu Chandravanshi</h1>
-<h3 align="center">A passionate frontend developer and Engineering Student from VIT Bhopal University.</h3>
-
-<img align="right" alt="coding" width="400" src="https://github.com/tanu91112/tanu91112/blob/main/github.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanu91112&label=Profile%20views&color=0e75b6&style=flat" alt="tanu91112" /> </p>
-
-📫 How to reach me **tanuchandravanshi9@gmail.com** <h3> 
+<h1 align="center">Hi 👋, I'm Tanu Chandravanshi
 
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanu91112&label=Profile%20views&color=0e75b6&style=flat" alt="tanu91112" /> </p>
+<img align="right" alt="coding" width="400" src="https://github.com/tanu91112/tanu91112/blob/main/github.gif">
 🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on New Projects<br>🔧 I’m working on enhancing my debugging and optimization skills for efficient coding.<br>🌱 I’m currently learning DSA, Machine learning and Deep Learning<br>⚡ Fun fact : It’s all 0’s and 1’s
+
+
+```
+# My code is like my hair,
+# it's a mess, but I love it.
+
+class MessyCode:
+    def __init__(self):
+        self.hair = "Messy"
+        self.code = "Unorganized"
+
+    def love_it(self):
+        return "I love it anyway!"
+
+    def display_status(self):
+        print(f"Code status: {self.code}")
+        print(f"Hair status: {self.hair}")
+        print(self.love_it())
+
+my_code = MessyCode()
+my_code.display_status()
+```
+
 
 
 
@@ -29,13 +47,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanu91112&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanu91112&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
+
 ### ✍️ Random Dev Quote
-<p>"Coding dreams, crafting intelligence,
-Future in every line."
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 
 ---
