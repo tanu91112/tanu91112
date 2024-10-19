@@ -5,7 +5,7 @@
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanu91112&label=Profile%20views&color=0e75b6&style=flat" alt="tanu91112" /> </p>
 <img align="right" alt="coding" width="400" src="https://github.com/tanu91112/tanu91112/blob/main/github.gif">
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on New Projects<br>🔧 I’m working on enhancing my debugging and optimization skills for efficient coding.<br>🌱 I’m currently learning DSA, Machine learning and Deep Learning<br>⚡ Fun fact : It’s all 0’s and 1’s
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on New Projects<br>🔧 I’m working on enhancing my debugging and optimization skills for efficient coding.<br>⚡ Fun fact : It’s all 0’s and 1’s
 
 
 ```
