@@ -15,7 +15,7 @@
 </div>
 
 ## 🚀 About Me
-Resume link: https://1drv.ms/b/c/c76b039bc7fe048f/EYaUFnnremVGk1GYzECE9ZYB2Ch-VGgIoDxY8o10mq8XLQ?e=doElei
+
 - 🔭 I'm currently working on **Web Development and Machine Learning Projects**
 - 🌱 I'm learning **Advanced Web Technologies and AI/ML**
 - 👯 I'm looking to collaborate on **Innovative Tech Projects**
