@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tanu Chandravanshi</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tanu91112&label=Profile%20views&color=0e75b6&style=flat" alt="tanu91112" />
