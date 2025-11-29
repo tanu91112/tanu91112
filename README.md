@@ -59,15 +59,11 @@
 ---
 
 ## 📈 GitHub Stats
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanu91112&show_icons=true&theme=radical" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanu91112&show_icons=true&theme=radical&border_radius=12&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=tanu91112&theme=radical&hide_border=true&border_radius=12" width="48%" />
-</p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanu91112&layout=compact&theme=radical" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu91112&layout=compact&theme=radical" width="50%" />
-</p>
+
 
 ---
 
