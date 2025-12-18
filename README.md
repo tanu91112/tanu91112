@@ -13,7 +13,7 @@
 
 ## 🌟 About Me
 
-- 🎓 AIML Student | VIT Bhopal University | CGPA: 8.84
+- 🎓 AIML Student | VIT Bhopal University | CGPA: 8.86
 - 🛠 Exploring Artificial Intelligence | Machine Learning | Web Dev
 - 🧪 Contributor @ GSSOC'24 | Postman Challenge Champion
 - 💡 Passionate about building real-world AI tools & automations
