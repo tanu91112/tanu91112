@@ -70,17 +70,6 @@
 
 
 
-
----
-
-## 🔥 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanu91112&theme=monokai&column=6&no-bg=true&no-frame=true" />
-</p>
-
----
-
 ## 💼 Featured Projects
 
 ### 🚀 [SMS Spam Classifier](https://github.com/tanu91112/SMS-Spam-Classifier)
