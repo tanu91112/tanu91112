@@ -56,6 +56,11 @@
 - 👩‍💻 Contributed to Open Source via GitHub Projects
 
 ---
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanu91112&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanu91112&layout=compact&theme=radical" />
 
 ## 🔥 GitHub Streak
 
@@ -63,10 +68,6 @@
   <img src="https://streak-stats.demolab.com?user=tanu91112&theme=radical" />
 </p>
 
-## 📈 GitHub Stats
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tanu91112&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tanu91112&layout=compact&theme=radical" />
 
 
 
